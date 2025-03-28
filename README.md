@@ -6,7 +6,7 @@ This is the boilerplate for the Page View Time Series Visualizer project. Instru
 _______________
 For this project you will visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
 
-****Use the data to complete the following tasks:
+# Use the data to complete the following tasks:
 
     Use Pandas to import the data from "fcc-forum-pageviews.csv". Set the index to the date column.
     Clean the data by filtering out days when the page views were in the top 2.5% of the dataset or bottom 2.5% of the dataset.
@@ -18,7 +18,7 @@ For each chart, make sure to use a copy of the data frame.
 
 The boilerplate also includes commands to save and return the image.
 
-****Development
+# Development
 
 Write your code in time_series_visualizer.py. For development, you can use main.py to test your code.
 Testing
